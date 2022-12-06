@@ -1,4 +1,5 @@
 ## Steps to take in order to build something to sell
+<br>
 
 ### 1. *Research the market and identify a need* for the product or service that you want to sell. This will help you to determine the demand for your product and ensure that there is a market for it.
 ### 2. *Develop a business plan* that outlines the steps you will take to build and sell your product, including the costs involved and your projected revenue.
