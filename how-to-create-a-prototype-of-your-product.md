@@ -1,3 +1,6 @@
+---
+description: Defining product, creating design, identifying suppliers, determining budget, building prototype, testing and refining prototype, creating final design.
+---
 # How to create a prototype of your product
 
 Creating a prototype of your product is an important step in the development process. A prototype is a working model of your product that allows you to test and refine your design before committing to full-scale production. Here are some steps you can follow to create a prototype of your product:
