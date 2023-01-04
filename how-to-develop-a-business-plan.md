@@ -1,3 +1,6 @@
+---
+description: Defining business idea, researching market, setting goals and objectives, creating marketing plan, developing financial plan, writing business plan.
+---
 # How to Develop a Business Plan
 
 Writing a business plan is an important step in starting or growing a business. A business plan is a document that outlines the key elements of your business, including your goals, target market, competitive advantage, and financial projections.
