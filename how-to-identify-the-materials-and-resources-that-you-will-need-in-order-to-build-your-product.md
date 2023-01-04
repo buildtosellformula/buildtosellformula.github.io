@@ -1,3 +1,6 @@
+---
+description: Defining product, creating design, identifying suppliers, determining budget, evaluating resources, ordering and tracking materials and resources.
+---
 # How to identify the materials and resources that you will need in order to build your product
 
 Developing a product can be an exciting and challenging process. In order to successfully build your product, you will need to identify and gather the right materials and resources. Here are some steps you can follow to identify the materials and resources you will need:
