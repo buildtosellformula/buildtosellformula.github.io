@@ -1,5 +1,5 @@
 ---
-description: Determining what to learn, choosing feedback channels, creating form/survey, communicating with customers, analyzing & acting on feedback, following up.
+description: Determining what to learn, choosing feedback channels, creating form/survey, communicating with customers, analyzing and acting on feedback, following up.
 ---
 # How to Collect Feedback from Customers
 
