@@ -1,3 +1,6 @@
+---
+description: Defining target market, researching competition, setting goals, creating marketing plan, developing sales plan, writing marketing and sales strategy.
+---
 # How to develop a marketing and sales strategy
 
 Developing a marketing and sales strategy is an important step in growing your business. A marketing and sales strategy is a plan for how you will reach and engage your target customers, and how you will sell your products or services to them. Here are some steps you can follow to develop a marketing and sales strategy:
