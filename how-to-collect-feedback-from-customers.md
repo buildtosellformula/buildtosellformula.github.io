@@ -1,3 +1,6 @@
+---
+description: Determining what to learn, choosing feedback channels, creating form/survey, communicating with customers, analyzing & acting on feedback, following up.
+---
 # How to Collect Feedback from Customers
 
 Collecting feedback from your customers is an essential part of running a successful business. Customer feedback provides valuable insights into what your customers like and don't like about your products or services, and can help you identify areas for improvement. Here are some steps you can follow to collect feedback from your customers:
